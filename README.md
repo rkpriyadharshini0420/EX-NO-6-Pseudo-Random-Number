@@ -49,7 +49,8 @@ int main() {
 }
 ```
 # OUTPUT:
-![image](https://github.com/user-attachments/assets/692e12cf-6a3f-4b36-9ad0-5b98ea7fe436)
+<img width="523" height="412" alt="image" src="https://github.com/user-attachments/assets/9193ebee-87eb-40a0-a112-26ab4597fda8" />
+
 
 # RESULT:
 The program for Pseudorandom Number Generation is executed successfully.
